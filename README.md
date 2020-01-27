@@ -1,9 +1,9 @@
-# BGIG-Odev
+# Computer Graphics Basics
 Bilgisayarla Grafik İşlemeye Giriş Ödevi
 
-## Çalışmayanlar
-- Poligonlarda alan doldurma fonksiyonu çalışmıyor.
-- Temel dönüşümlerden yansımanın kodunun değiştirilmesi gerekiyor.
+## Not working
+- FillPolygon function is not working
+- Reflection has a wrong algorithm. It needs to re-write code.
 
-## Menü
+## Menu
 <a href="#"><img src="https://i.hizliresim.com/Z5oJBg.png"></a>
