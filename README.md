@@ -7,7 +7,7 @@ Bilgisayarla Grafik İşlemeye Giriş
 - Draws a Bezier Curve
 - Draws some polygons like triangle,square,pentagon
 - Draws ellipse,oval,circle,round
-- Draws star
+- Draws star,arc and disk
 - Basic transformations like rotation,shearing,translation,reflection(has a issue)
 
 ## Not working
