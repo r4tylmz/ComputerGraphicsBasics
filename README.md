@@ -1,6 +1,6 @@
 # Computer Graphics Basics
-Introduction to Graphics Processing with Computer
-Bilgisayarla Grafik İşlemeye Giriş
+* Introduction to Graphics Processing with Computer
+* Bilgisayarla Grafik İşlemeye Giriş
 
 ## Features
 - Draws line (with Bresenham algoritm)
