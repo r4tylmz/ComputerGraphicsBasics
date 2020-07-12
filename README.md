@@ -3,7 +3,7 @@
 * Bilgisayarla Grafik İşlemeye Giriş
 
 ## Features
-- Draws line (with Bresenham algoritm)
+- Draws line (with Bresenham algorithm)
 - Draws a Bezier Curve
 - Draws some polygons like triangle,square,pentagon
 - Draws ellipse,oval,circle,round
